@@ -192,6 +192,16 @@ footer {
 
 
 /*Content for Portfolio*/
+.content-box-portfolio {
+    width: 960px;
+    margin: 0 auto;
+    border: 1px solid #dddddd;
+    margin-top: 40px;
+    box-shadow: .5rem 1rem 1rem rgba(0, 0, 0, 0.15);
+    background-color: rgba(255, 255, 255, 0.8) ;
+    max-height: 1200px
+
+}
 .work {
     float: left;
     width: 268px;
@@ -355,6 +365,10 @@ input[type=text], select, textarea {
     width: 25%;
 }
 /*for portfolio*/
+.content-box-portfolio {
+    max-height: 1600px
+
+}
     .work {
         width: 305px;
     }
@@ -404,6 +418,10 @@ input[type=text], select, textarea {
         width: 35%;
 }
 /*for portfolio*/
+.content-box-portfolio {
+    max-height: 1700px
+
+}
     .work {
         width: 245px;
     }
@@ -466,6 +484,10 @@ input[type=text], select, textarea {
         width: 100%;
 }
 /*for portfolio*/
+.content-box-portfolio {
+    max-height: 5200px
+
+}
     .work {
         max-width: 590px;
         height: 440px;
