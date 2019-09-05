@@ -199,7 +199,7 @@ footer {
     margin-top: 40px;
     box-shadow: .5rem 1rem 1rem rgba(0, 0, 0, 0.15);
     background-color: rgba(255, 255, 255, 0.8) ;
-    max-height: 1200px
+    max-height: 1500px
 
 }
 .work {
@@ -366,7 +366,7 @@ input[type=text], select, textarea {
 }
 /*for portfolio*/
 .content-box-portfolio {
-    max-height: 1600px
+    max-height: 2200px
 
 }
     .work {
@@ -419,7 +419,7 @@ input[type=text], select, textarea {
 }
 /*for portfolio*/
 .content-box-portfolio {
-    max-height: 1700px
+    max-height: 2300px
 
 }
     .work {
@@ -485,7 +485,7 @@ input[type=text], select, textarea {
 }
 /*for portfolio*/
 .content-box-portfolio {
-    max-height: 5200px
+    max-height: 6800px
 
 }
     .work {
